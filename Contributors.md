@@ -14,6 +14,7 @@
 - [Shivam Birla](https://github.com/Shivam4747)
 - [Rakshit Kumar](https://github.com/mighty-phoenix)
 - [Diya Nag Chaudhury](https://github.com/cherryWood55)
+- [Pietro Bernardelle](https://github.com/PietroBernardelle)
 - [Ishita Tiwari](https://github.com/Ishita-Tiwari)
 - [Pranshu Aggarwal](https://github.com/pranshuag9)
 - [Akhil Dhiman](https://github.com/akhildhiman7)
